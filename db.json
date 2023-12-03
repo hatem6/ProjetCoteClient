@@ -1,0 +1,172 @@
+{
+  "Products": [
+    {
+    "name": "FLORAL PRINT MIDI DRESS ",
+    "price": "69 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/1/p/9878/184/637/2/w/824/9878184637_1_1_1.jpg?ts=1688375858596",
+    "genre": "woman",
+    "type": "dresse"
+  },
+  {
+    "name": "IMPRIMÉ BIMATIÈRE Noir",
+    "price": "59 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/2/p/0962/319/800/2/w/824/0962319800_2_1_1.jpg?ts=1689926676657",
+    "genre": "man",
+    "type": "t-shirt"
+  },
+  {
+    "name": "IMPRIMÉE Marron clair",
+    "price": "39 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/2/p/0495/330/707/2/w/824/0495330707_2_1_1.jpg?ts=1691575360486",
+    "genre": "man",
+    "type": "t-shirt"
+  },
+  {
+    "name": "Tapered Jeans",
+    "price": "39 DT",
+    "url": "https://i.pinimg.com/originals/fa/06/96/fa0696187e4f904b6da2b541810b72cf.jpg",
+    "genre": "man",
+    "type": "jeans"
+  },
+  {
+    "name": "SATIN DRESS WITH FEATHERS",
+    "price": "89 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/1/p/7844/934/501/2/w/824/7844934501_1_1_1.jpg?ts=1691482578125",
+    "genre": "woman",
+    "type": "dresse"
+  },
+  {
+    "name": "RELAXED RIPPED JEANS",
+    "price": "39 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/2/p/8062/333/427/2/w/824/8062333427_1_1_1.jpg?ts=1692355484258",
+    "genre": "man",
+    "type": "jeans"
+  },
+  {
+    "name": "RELAXED BAGGY JEANS",
+    "price": "39 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/2/p/1538/313/800/2/w/824/1538313800_1_1_1.jpg?ts=1698221218596",
+    "genre": "man",
+    "type": "jeans"
+  },
+  {
+    "name": "Basiques Noir",
+    "price": "59 DT",
+    "url": "https://trexpress.ir/images/thumbs/0038823_basic-slim-fit-t-shirt-with-v-neck.jpeg",
+    "genre": "man",
+    "type": "t-shirt"
+  },
+  {
+    "name": "Basiques Bege",
+    "price": "59 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/2/p/4231/425/811/2/w/560/4231425811_6_1_1.jpg?ts=1689085939253",
+    "genre": "man",
+    "type": "t-shirt"
+  },
+  {
+    "name": "JEAN ZW MARINE DROIT À TAILLE HAUTE",
+    "price": "79 DT",
+    "url": "https://static.zara.net/photos///2022/I/0/1/p/8246/050/712/2/w/1920/8246050712_6_1_1.jpg?ts=1654586460475",
+    "genre": "woman",
+    "type": "w-jeans"
+  },
+  {
+    "name": "PRINTED MIDI DRESS",
+    "price": "79 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/1/p/2157/068/098/2/w/824/2157068098_1_1_1.jpg?ts=1685629435975",
+    "genre": "woman",
+    "type": "dresse"
+  },
+  {
+    "name": "Basiques verte",
+    "price": "59 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/2/p/4087/480/055/2/w/560/4087480055_6_1_1.jpg?ts=1687859877632",
+    "genre": "man",
+    "type": "t-shirt"
+  },
+  {
+    "name": "PRINT SHIRT DRESS",
+    "price": "79 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/1/p/7652/002/330/2/w/824/7652002330_1_1_1.jpg?ts=1683724982079",
+    "genre": "woman",
+    "type": "dresse"
+  },
+  {
+    "name": "BIMATIÈRE Rose",
+    "price": "59 DT",
+    "url": "https://i.ibb.co/kBb3y4c/product-8.jpg",
+    "genre": "man",
+    "type": "t-shirt"
+  },
+  {
+    "name": "JEANS WITH CARPENTER POCKET",
+    "price": "39 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/2/p/3175/301/406/2/w/560/3175301406_1_1_1.jpg?ts=1688722148035",
+    "genre": "man",
+    "type": "jeans"
+  },
+  {
+    "name": "Women's Suits",
+    "price": "79 DT",
+    "url": "https://i.ibb.co/x12hvYr/product-7.jpg",
+    "genre": "woman",
+    "type": "dresse"
+  },
+  {
+    "name": "Enfants Jean Coupe Large À Clous Gris",
+    "price": "79 DT",
+    "url": "https://www.dagmetal.org/wp-content/uploads/2023/01/enfants-zara-jean-coupe-large-c3a0-clous-gris-moyen-jeans_1.jpg",
+    "genre": "woman",
+    "type": "w-jeans"
+  },
+  {
+    "name": "Jean slim Marine",
+    "price": "39 DT",
+    "url": "https://cdn1.percentil.com/img/p/3/3/8/15493833-20491250-thickbox.jpg",
+    "genre": "man",
+    "type": "jeans"
+  },
+  {
+    "name": "THE CARGO DÉLAVAGE AUTHENTIQUE",
+    "price": "79 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/3/p/6987/792/427/2/w/824/6987792427_6_1_1.jpg?ts=1690974472437",
+    "genre": "woman",
+    "type": "w-jeans"
+  },
+  {
+    "name": "Jean Slim ",
+    "price": "39 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/1/p/8062/475/401/2/w/560/8062475401_15_1_1.jpg?ts=1689612228150",
+    "genre": "man",
+    "type": "jeans"
+  },
+  {
+    "name": "Blake Lively",
+    "price": "79 DT",
+    "url": "https://media.vogue.fr/photos/6446683c0512e8ef311a5ca8/3:4/w_748%2Cc_limit/5862037427_6_1_1.png",
+    "genre": "woman",
+    "type": "w-jeans"
+  },
+  {
+    "name": "JEAN MARINE DOUX AU TOUCHER - Bleu clair",
+    "price": "79 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/3/p/1538/602/406/2/w/1920/1538602406_6_1_1.jpg?ts=1689334177174",
+    "genre": "woman",
+    "type": "w-jeans"
+  },
+  {
+    "name": "mom fit",
+    "price": "79 DT",
+    "url": "https://media.karousell.com/media/photos/products/2022/8/20/zara_jeans_mom_fit_1661002344_89874aec_progressive.jpg",
+    "genre": "woman",
+    "type": "w-jeans"
+  },
+  {
+    "name": "THE AUTHENTIC DÉCHIRÉ",
+    "price": "79 DT",
+    "url": "https://static.zara.net/photos///2023/I/0/3/p/1879/782/427/2/w/824/1879782427_6_1_1.jpg?ts=1689860675566",
+    "genre": "woman",
+    "type": "w-jeans"
+  }
+  ]
+}
